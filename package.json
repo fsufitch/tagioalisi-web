@@ -59,7 +59,7 @@
   "dependencies": {
     "@primer/octicons-react": "^9.4.0",
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lorem-ipsum": "^2.0.3",
     "popper.js": "^1.16.1",
     "react": "^16.12.0",
